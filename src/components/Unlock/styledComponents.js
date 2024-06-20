@@ -9,7 +9,7 @@ export const UnlockContainer = styled.div`
   align-items: center;
   width: 100%;
   height: 100vh;
-  background-color: #161617;
+  background: linear-gradient(to bottom, #161617, #0b0c1e, #3c2940);
 `
 export const ImageContainer = styled.div`
   width: 100%;
